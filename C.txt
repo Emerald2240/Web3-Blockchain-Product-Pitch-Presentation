@@ -2,3 +2,19 @@ Can you do it?
 The final part of your pitch should answer this question.
 
 Now that your audience has heard you talk about the problem, solution, and proof that it works, you need to show them how you’re going to implement the solution. Think of this point as the “actionable” part of your pitch. You can even provide steps to break down how this can be achieved in a certain timeframe.
+
+
+Government Public Funds/Package Distribution Monitoring/Accountability Project
+
+Answering Can it be done
+Yes it can be done. Here’s what we propose:
+
+1. Funds for each public project is issued through the E-Naira on the blockchain. 
+
+2. Every endpoint/parastatals must have their own wallet on the blockchain
+
+3. Each wallet’s private keys are encrypted and stored on hardware wallets with multiple-authentications of major stakeholders of that given parastatal. So that no one single person can have full access to the private keys hence full access to the funds after they leave office.
+
+4. When funds for a project are released, it is listed publicly on the blockchain so everyone can track the movement of these funds.
+
+5. Now it might not be feasible to integrate this deep to individual level (e.g the regular market woman) but it can be implemented at the local government/ward levels anybody belonging to any ward can visibly go on the blockchain and see if funds released to them have gotten to their wards
