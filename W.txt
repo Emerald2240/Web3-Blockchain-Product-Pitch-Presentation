@@ -2,5 +2,28 @@ What is it and what do you offer?
 You start your business pitch by answering the questions: what is it, and what do you offer? 
 
 At this point, you share your business plan and quickly outline the problem and solution you offer. For example, let’s say that you want to pitch the idea of having a UX researcher on your product team. 
+You list down existing problems and challenges that your team and/or organization are currently experiencing without a dedicated UX researcher. Afterward, you propose your solution — hiring someone who can step in and do user research.
 
-You list down existing problems and challenges that your team and/or organization are currently experiencing without a dedicated UX researcher. Afterward, you propose your solution — hiring someone who can step in and do user research. 
+
+#### PROBLEM STATEMENT ############################################
+
+Accountability lies at the heart of a democratic government. That is to say, democracy thrives on and is sustained by accountability. It can then be said that as a result of the serious public accountability issues in Nigeria, we have completely stripped democracy of virtually all its meaning. Consequently, our fledgling democracy is encumbered by many challenges, particularly electoral malpractices and irregularities, and systemic corruption.
+
+From year to year, trillions of naira are budgeted for expenditures by governments. However, despite these huge budgets and expenditures, there are still problems of unemployment, infrastructural decay and poor service delivery by sectors/institutions like education and health, among others. The result of this is low output of the economy and poor quality service delivery. All thanks to corruption!
+
+Due to the absence of public accountability measures, which ensures that the society gets value for its money and that public resources are not diverted to private use, anyone that is lucky to grab political power can basically get away with most crimes, and some of these crimes involve money laundering and uncontrollable theft from public coffers.
+
+
+
+#### SOLUTION ########################################################
+
+Government Public Fund/Package Distribution Monitoring/Accountability Project is a web based Blockchain dependent app that tries to boost government accountability by letting all citizens worldwide publicly view details about Government projects and their corresponding fund disbursements. These projects include Citizen relief package distribution for state, local government, village, office etc; Salary Payments; Government contract payments and so on.
+
+This will be achieved through the use of the Blockchain/Crypto Currency - its transparency and it's immutability. The Government is mandated to process their payments and transactional activities using the blockchain and a stable crypto currency; once done, these transactions can be retrieved, viewed and critiqued when need be by anyone anywhere through the app. Each state, local government, office or parastatal will have their own cypto wallets for sending and receiving funds. The app will make use of APIs that query the blockchain for particular wallets, depending on what they choose. The app will be hosted on the web for easy unrestricted access to everyone, regardless of device or operating system. 
+
+This approach will help boost accountability for the government and reduce fraud in that all required data on transactions are stored securely and cannot be manipulated or changed by anyone. An example is in the case of curbing corruption; no money can be moved secretively or in a fraudulent manner from public wallets because all transactions and their destinations are recorded automatically and available to all.
+
+ Another example of this is in package distribution; no citizen, state or office can receive dues twice because the duplicity can be easily confirmed on the Blockchain.
+
+The project will help make the lives of the average Nigerian better because funds will be better spent for things they were meant to be, fraudsters, thieves and corrupt officials can be more easily caught and all records will be securely kept for years without risk of loss, damage or manipulation.
+

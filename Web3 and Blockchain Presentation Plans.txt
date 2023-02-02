@@ -16,7 +16,7 @@ This approach will help boost accountability for the government in that all requ
 
 The project will help make the lives of the average Nigerian better because funds will be better spent for things they were meant to be and all records will be securely kept for years without risk of loss or damage or manipulation.
 
-/////////////////////////////////////////////////
+###############################################################################
 
 Product Pitch Aims and Objectives
 
@@ -40,7 +40,7 @@ Product Pitch Aims and Objectives
 
 5) Make sure to use accurate facts backed up by relevant and recent data
 
-/////////////////////////////////////////////////
+###############################################################################
 
 At the end of the day, your project pitch should be able to answer 4 questions (W.H.A.C)
 
@@ -60,7 +60,7 @@ At the end of the day, your project pitch should be able to answer 4 questions (
 
 - Can you do it?
 
-/////////////////////////////////////////////////
+###############################################################################
 
 Our Work is Divided into two:
 
@@ -69,10 +69,10 @@ The Design Side
 
 The Logic Side
 
-/////////////////////////////////////////////////
+###############################################################################
 
 The Design Side will be handled by the Product Design and Frontend guys. The Product Designers are the heart of the project and will work on putting everything together; including the text, images and designs for the Presentation. The Frontend guys will help offer samples for Screenshots of our project.
 
-/////////////////////////////////////////////////
+###############################################################################
 
 The Logic Side will be handled by the Web3 and Backend guys. We'll be in charge of explaining the nitty gritty and technical details of the project; this includes doing research to answer all the aforementioned W.H.A.C questions
