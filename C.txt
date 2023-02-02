@@ -1,0 +1,4 @@
+Can you do it? 
+The final part of your pitch should answer this question.
+
+Now that your audience has heard you talk about the problem, solution, and proof that it works, you need to show them how you’re going to implement the solution. Think of this point as the “actionable” part of your pitch. You can even provide steps to break down how this can be achieved in a certain timeframe.
