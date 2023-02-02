@@ -5,6 +5,12 @@ This is the point where you have to provide solid proof in your pitch. You can u
 
 
 
-According to the study "Challenges of accountability and development in Nigeria: An auto-regressive distributed lag approach published under the Journal of Money Laundering Control ISSN: 1368-5201 Article publication date: 30 March 2020 Reprints & Permissions Issue publication date: 18 May 2020
+According to the study "Challenges of accountability and development in Nigeria: An auto-regressive distributed lag approach" published under the Journal of Money Laundering Control ISSN: 1368-5201
 
 The Nigerian Government has taken several actions to address the problems of bad governance and corruption that have impeded economic development, but unfortunately these measures have not yielded the desired results. The results from the study found that control of corruption and political power has a direct and significant effect on Nigeria’s economic development. For Nigeria to experience development, corruption should be eliminated, and the Nigerian Government should spend on viable projects and economic activities that will be beneficial to the populace and the society at large and hence bring about economic development. Accountability is the hallmark of a prudent government that ensures efficient management of resources and transparency in the utilization of funds by the government. The absence of accountability mechanisms allows corruption to thrive, which hinders the developmental process.
+
+Its a no brainer that greater transparency for government equals greater efficiency, accountability and growth. In some developed countries so called "Federal Spending Databases" exist. The United States Of America has a government website: https://www.usaspending.gov/ There theres options like "Track federal spending in response to the COVID-19 pandemic", "Federal spening in communities", "Federal Spending Over Time", "Federal Spending by Industry", "Federal Spending by Product or Service" and so on.
+
+Clearly this idea is already being implemented, albeit with centralized technology. The blockchain creates an extra fortified layer of transparency, security and accountability on the fly. Data is recorded as transactions are made.
+
+
